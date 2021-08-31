@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Ben Lindstrom 
+# Welcome to my portfolio!
+## I will update this site everytime i learn something new
